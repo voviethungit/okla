@@ -1,0 +1,11 @@
+
+###
+POST http://localhost:5000/register
+Content-Type: application/json
+
+{
+    "fullname": "PHAN THANH LUAN",
+    "email": "luanngu@gmail.com",
+    "password": "123456",
+    "location": "HA TINH"
+}
